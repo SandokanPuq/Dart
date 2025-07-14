@@ -1,1 +1,3 @@
-*/Archivo principal/*
+void main(){
+ print("Hola Mumdo");
+}
